@@ -1,6 +1,8 @@
 Слова, часто используемые в CSS-классах
+
 Изображения
-image, img, picture, pic — картинка
+image, img, 
+picture, pic — картинка
 
 icon — иконка
 
